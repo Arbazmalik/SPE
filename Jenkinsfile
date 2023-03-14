@@ -3,7 +3,7 @@ pipeline {
 	    stages {
 	        stage('Clone Git') {
 	            steps {
-	                git 'https://github.com/Arbazmalik/SPE.git'
+	                git branch: 'main', credentialsId: 'newgit', url: 'https://github.com/Arbazmalik/SPE.git'
 	            }
 	        }
 	        
