@@ -12,7 +12,7 @@
 
     - name: Create & Start Calculator Docker Container
       docker_container:
-        name: calculator-using-devops
+        name: junit-devops
         image: arbazmalik/junit-devops
         state: started
         tty: yes
