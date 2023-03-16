@@ -1,2 +1,2 @@
 [clients]
- client 172.16.137.60 ansible_user=client ansible_sudo_pass=MT2022019
+client ansible_host=172.16.137.60 ansible_connection=ssh ansible_user=client ansible_sudo_pass=MT2022019
