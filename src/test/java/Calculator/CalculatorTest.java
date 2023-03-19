@@ -1,9 +1,8 @@
 package Calculator;
 
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.*;
 
-public class CalculatorTest{
+public class CalculatorTest {
 
     @Test
     public void testFactorial() {
@@ -32,4 +31,7 @@ public class CalculatorTest{
         Assertions.assertEquals(0.0, calculator.naturalLog(1));
         Assertions.assertEquals(Double.NaN, calculator.naturalLog(-1));
     }
+
+
 }
+
