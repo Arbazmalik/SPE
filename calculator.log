@@ -1,0 +1,96 @@
+2023-03-19 17:08:34.444 [main] INFO  Calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2023-03-19 17:08:34.445 [main] INFO  Calculator.Calculator - [RESULT - POWER] - 8.0
+2023-03-19 17:08:34.447 [main] INFO  Calculator.Calculator - [POWER - 2.0 RAISED TO] 0.0
+2023-03-19 17:08:34.447 [main] INFO  Calculator.Calculator - [RESULT - POWER] - 1.0
+2023-03-19 17:08:34.452 [main] INFO  Calculator.Calculator - [FACTORIAL] - 5.0
+2023-03-19 17:08:34.453 [main] INFO  Calculator.Calculator - [RESULT - FACTORIAL] - 120.0
+2023-03-19 17:08:34.453 [main] INFO  Calculator.Calculator - [FACTORIAL] - 0.0
+2023-03-19 17:08:34.453 [main] INFO  Calculator.Calculator - [RESULT - FACTORIAL] - 1.0
+2023-03-19 17:08:34.456 [main] INFO  Calculator.Calculator - [NATURAL LOG] - 1.0
+2023-03-19 17:08:34.456 [main] INFO  Calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2023-03-19 17:08:34.456 [main] INFO  Calculator.Calculator - [NATURAL LOG] - -1.0
+2023-03-19 17:08:34.457 [main] INFO  Calculator.Calculator - [RESULT - NATURAL LOG] - NaN
+2023-03-19 17:08:34.459 [main] INFO  Calculator.Calculator - [SQ ROOT] - 4.0
+2023-03-19 17:08:34.459 [main] INFO  Calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2023-03-19 17:08:34.459 [main] INFO  Calculator.Calculator - [SQ ROOT] - -4.0
+2023-03-19 17:08:34.460 [main] INFO  Calculator.Calculator - [RESULT - SQ ROOT] - NaN
+2023-03-19 17:09:06.635 [main] INFO  Calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2023-03-19 17:09:06.637 [main] INFO  Calculator.Calculator - [RESULT - POWER] - 8.0
+2023-03-19 17:09:06.640 [main] INFO  Calculator.Calculator - [POWER - 2.0 RAISED TO] 0.0
+2023-03-19 17:09:06.640 [main] INFO  Calculator.Calculator - [RESULT - POWER] - 1.0
+2023-03-19 17:09:06.650 [main] INFO  Calculator.Calculator - [FACTORIAL] - 5.0
+2023-03-19 17:09:06.651 [main] INFO  Calculator.Calculator - [RESULT - FACTORIAL] - 120.0
+2023-03-19 17:09:06.651 [main] INFO  Calculator.Calculator - [FACTORIAL] - 0.0
+2023-03-19 17:09:06.651 [main] INFO  Calculator.Calculator - [RESULT - FACTORIAL] - 1.0
+2023-03-19 17:09:06.654 [main] INFO  Calculator.Calculator - [NATURAL LOG] - 1.0
+2023-03-19 17:09:06.655 [main] INFO  Calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2023-03-19 17:09:06.655 [main] INFO  Calculator.Calculator - [NATURAL LOG] - -1.0
+2023-03-19 17:09:06.656 [main] INFO  Calculator.Calculator - [RESULT - NATURAL LOG] - NaN
+2023-03-19 17:09:06.660 [main] INFO  Calculator.Calculator - [SQ ROOT] - 4.0
+2023-03-19 17:09:06.660 [main] INFO  Calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2023-03-19 17:09:06.660 [main] INFO  Calculator.Calculator - [SQ ROOT] - -4.0
+2023-03-19 17:09:06.661 [main] INFO  Calculator.Calculator - [RESULT - SQ ROOT] - NaN
+2023-03-19 17:10:50.279 [main] INFO  Calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2023-03-19 17:10:50.281 [main] INFO  Calculator.Calculator - [RESULT - POWER] - 8.0
+2023-03-19 17:10:50.283 [main] INFO  Calculator.Calculator - [POWER - 2.0 RAISED TO] 0.0
+2023-03-19 17:10:50.284 [main] INFO  Calculator.Calculator - [RESULT - POWER] - 1.0
+2023-03-19 17:10:50.293 [main] INFO  Calculator.Calculator - [FACTORIAL] - 5.0
+2023-03-19 17:10:50.293 [main] INFO  Calculator.Calculator - [RESULT - FACTORIAL] - 120.0
+2023-03-19 17:10:50.293 [main] INFO  Calculator.Calculator - [FACTORIAL] - 0.0
+2023-03-19 17:10:50.294 [main] INFO  Calculator.Calculator - [RESULT - FACTORIAL] - 1.0
+2023-03-19 17:10:50.303 [main] INFO  Calculator.Calculator - [NATURAL LOG] - 1.0
+2023-03-19 17:10:50.303 [main] INFO  Calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2023-03-19 17:10:50.304 [main] INFO  Calculator.Calculator - [NATURAL LOG] - -1.0
+2023-03-19 17:10:50.304 [main] INFO  Calculator.Calculator - [RESULT - NATURAL LOG] - NaN
+2023-03-19 17:10:50.313 [main] INFO  Calculator.Calculator - [SQ ROOT] - 4.0
+2023-03-19 17:10:50.313 [main] INFO  Calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2023-03-19 17:10:50.314 [main] INFO  Calculator.Calculator - [SQ ROOT] - -4.0
+2023-03-19 17:10:50.314 [main] INFO  Calculator.Calculator - [RESULT - SQ ROOT] - NaN
+2023-03-19 17:10:57.046 [main] INFO  Calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2023-03-19 17:10:57.048 [main] INFO  Calculator.Calculator - [RESULT - POWER] - 8.0
+2023-03-19 17:10:57.050 [main] INFO  Calculator.Calculator - [POWER - 2.0 RAISED TO] 0.0
+2023-03-19 17:10:57.050 [main] INFO  Calculator.Calculator - [RESULT - POWER] - 1.0
+2023-03-19 17:10:57.057 [main] INFO  Calculator.Calculator - [FACTORIAL] - 5.0
+2023-03-19 17:10:57.057 [main] INFO  Calculator.Calculator - [RESULT - FACTORIAL] - 120.0
+2023-03-19 17:10:57.057 [main] INFO  Calculator.Calculator - [FACTORIAL] - 0.0
+2023-03-19 17:10:57.057 [main] INFO  Calculator.Calculator - [RESULT - FACTORIAL] - 1.0
+2023-03-19 17:10:57.059 [main] INFO  Calculator.Calculator - [NATURAL LOG] - 1.0
+2023-03-19 17:10:57.060 [main] INFO  Calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2023-03-19 17:10:57.060 [main] INFO  Calculator.Calculator - [NATURAL LOG] - -1.0
+2023-03-19 17:10:57.061 [main] INFO  Calculator.Calculator - [RESULT - NATURAL LOG] - NaN
+2023-03-19 17:10:57.063 [main] INFO  Calculator.Calculator - [SQ ROOT] - 4.0
+2023-03-19 17:10:57.064 [main] INFO  Calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2023-03-19 17:10:57.064 [main] INFO  Calculator.Calculator - [SQ ROOT] - -4.0
+2023-03-19 17:10:57.065 [main] INFO  Calculator.Calculator - [RESULT - SQ ROOT] - NaN
+2023-03-19 17:23:50.420 [main] INFO  Calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2023-03-19 17:23:50.422 [main] INFO  Calculator.Calculator - [RESULT - POWER] - 8.0
+2023-03-19 17:23:50.424 [main] INFO  Calculator.Calculator - [POWER - 2.0 RAISED TO] 0.0
+2023-03-19 17:23:50.424 [main] INFO  Calculator.Calculator - [RESULT - POWER] - 1.0
+2023-03-19 17:23:50.432 [main] INFO  Calculator.Calculator - [FACTORIAL] - 5.0
+2023-03-19 17:23:50.433 [main] INFO  Calculator.Calculator - [RESULT - FACTORIAL] - 120.0
+2023-03-19 17:23:50.433 [main] INFO  Calculator.Calculator - [FACTORIAL] - 0.0
+2023-03-19 17:23:50.433 [main] INFO  Calculator.Calculator - [RESULT - FACTORIAL] - 1.0
+2023-03-19 17:23:50.437 [main] INFO  Calculator.Calculator - [NATURAL LOG] - 1.0
+2023-03-19 17:23:50.437 [main] INFO  Calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2023-03-19 17:23:50.437 [main] INFO  Calculator.Calculator - [NATURAL LOG] - -1.0
+2023-03-19 17:23:50.438 [main] INFO  Calculator.Calculator - [RESULT - NATURAL LOG] - NaN
+2023-03-19 17:23:50.440 [main] INFO  Calculator.Calculator - [SQ ROOT] - 4.0
+2023-03-19 17:23:50.440 [main] INFO  Calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2023-03-19 17:23:50.440 [main] INFO  Calculator.Calculator - [SQ ROOT] - -4.0
+2023-03-19 17:23:50.440 [main] INFO  Calculator.Calculator - [RESULT - SQ ROOT] - NaN
+2023-03-19 17:25:06.263 [main] INFO  Calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2023-03-19 17:25:06.265 [main] INFO  Calculator.Calculator - [RESULT - POWER] - 8.0
+2023-03-19 17:25:06.268 [main] INFO  Calculator.Calculator - [POWER - 2.0 RAISED TO] 0.0
+2023-03-19 17:25:06.268 [main] INFO  Calculator.Calculator - [RESULT - POWER] - 1.0
+2023-03-19 17:25:06.273 [main] INFO  Calculator.Calculator - [FACTORIAL] - 5.0
+2023-03-19 17:25:06.274 [main] INFO  Calculator.Calculator - [RESULT - FACTORIAL] - 120.0
+2023-03-19 17:25:06.274 [main] INFO  Calculator.Calculator - [FACTORIAL] - 0.0
+2023-03-19 17:25:06.274 [main] INFO  Calculator.Calculator - [RESULT - FACTORIAL] - 1.0
+2023-03-19 17:25:06.276 [main] INFO  Calculator.Calculator - [NATURAL LOG] - 1.0
+2023-03-19 17:25:06.277 [main] INFO  Calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2023-03-19 17:25:06.277 [main] INFO  Calculator.Calculator - [NATURAL LOG] - -1.0
+2023-03-19 17:25:06.277 [main] INFO  Calculator.Calculator - [RESULT - NATURAL LOG] - NaN
+2023-03-19 17:25:06.279 [main] INFO  Calculator.Calculator - [SQ ROOT] - 4.0
+2023-03-19 17:25:06.280 [main] INFO  Calculator.Calculator - [RESULT - SQ ROOT] - 2.0
+2023-03-19 17:25:06.280 [main] INFO  Calculator.Calculator - [SQ ROOT] - -4.0
+2023-03-19 17:25:06.280 [main] INFO  Calculator.Calculator - [RESULT - SQ ROOT] - NaN
