@@ -7,8 +7,8 @@ public class CalculatorTest {
     @Test
     public void testFactorial() {
         Calculator calculator = new Calculator();
-        Assertions.assertEquals(120.0, calculator.factoral(5));
-        Assertions.assertEquals(1.0, calculator.factoral(0));
+        Assertions.assertEquals(120.0, calculator.factorial(5));
+        Assertions.assertEquals(1.0, calculator.factorial(0));
     }
 
     @Test
