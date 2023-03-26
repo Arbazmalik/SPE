@@ -4,6 +4,7 @@ import org.junit.jupiter.api.*;
 
 public class CalculatorTest {
 
+
     @Test
     public void testFactorial() {
         Calculator calculator = new Calculator();

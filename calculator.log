@@ -328,3 +328,5 @@
 2023-03-21 23:05:35.813 [main] INFO  Calculator.Calculator - Factorial of 10 is 3628800.0
 2023-03-21 23:06:06.148 [main] INFO  Calculator.Calculator - Natural log of 20.0 is 2.995732273553991
 2023-03-21 23:06:22.891 [main] INFO  Calculator.Calculator - Natural log of 10.0 is 2.302585092994046
+2023-03-21 23:10:03.803 [main] INFO  Calculator.Calculator - Calculator started
+2023-03-21 23:10:18.489 [main] INFO  Calculator.Calculator - Factorial of 5 is 120.0
