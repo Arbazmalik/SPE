@@ -11,6 +11,8 @@ public class CalculatorTest {
         Assertions.assertEquals(1.0, calculator.factorial(0));
     }
 
+
+
     @Test
     public void testSqRoot() {
         Calculator calculator = new Calculator();
