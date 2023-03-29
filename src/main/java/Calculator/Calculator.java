@@ -22,6 +22,7 @@ public class Calculator {
         double result = Math.sqrt(number1);
         return result;
     }
+    //comment1
 
 
     public double power(double number1, double number2) {
