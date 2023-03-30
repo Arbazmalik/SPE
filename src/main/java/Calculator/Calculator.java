@@ -17,7 +17,7 @@ public class Calculator {
             return n * factorial(n - 1);
         }
     }
-    //comment
+    //comment2222
     public double sqroot(double number1) {
         double result = Math.sqrt(number1);
         return result;
