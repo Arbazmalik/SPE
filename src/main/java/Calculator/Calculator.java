@@ -23,7 +23,7 @@ public class Calculator {
         return result;
     }
     //comment1
-
+    //comment2
 
     public double power(double number1, double number2) {
         double result = Math.pow(number1,number2);
