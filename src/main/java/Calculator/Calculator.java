@@ -18,6 +18,7 @@ public class Calculator {
         }
     }
     //comment2222
+    //new comment
     public double sqroot(double number1) {
         double result = Math.sqrt(number1);
         return result;
