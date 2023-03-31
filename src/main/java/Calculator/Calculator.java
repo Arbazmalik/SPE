@@ -18,13 +18,11 @@ public class Calculator {
         }
     }
     //comment2222
-    //new comment
     public double sqroot(double number1) {
         double result = Math.sqrt(number1);
         return result;
     }
-    //comment1
-    //comment2
+
 
     public double power(double number1, double number2) {
         double result = Math.pow(number1,number2);
